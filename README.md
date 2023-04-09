@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushmanth Chintalapudi</h1>
-<h3 align="center">A passionate Data Scientist from India, currently pursuing Bachelors of Technology in Computer Science from Indian Institute of Information Technology, Una </h3>
+<h3 align="center">A passionate Data Scientist from India, currently pursuing Bachelor of Technology in Computer Science from Indian Institute of Information Technology, Una </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsushmanth&label=Profile%20views&color=0e75b6&style=flat" alt="0xsushmanth" /> </p>
 
