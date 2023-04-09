@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [working in progress :3](working in progress :3)
+- 👨‍💻 All of my projects are available at [working in progress :3]
 
 - 📫 How to reach me **sushmanth.chintalapudi@gmail.com**
 
