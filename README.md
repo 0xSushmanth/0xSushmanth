@@ -26,7 +26,6 @@
 <a href="https://linkedin.com/in/sushmanth-chintalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushmanth-chintalapudi" height="30" width="40" /></a>
 <a href="https://kaggle.com/sushmanth543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sushmanth543" height="30" width="40" /></a>
 <a href="https://instagram.com/ig._.sushmanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig._.sushmanth" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ninja_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ninja_codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ninja-543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ninja-543" height="30" width="40" /></a>
 </p>
 
