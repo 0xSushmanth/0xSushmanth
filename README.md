@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sushmanthdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sushmanthdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sushmanth-chintalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushmanth-chintalapudi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xSushmanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushmanth-chintalapudi" height="30" width="40" /></a>
 <a href="https://kaggle.com/sushmanth543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sushmanth543" height="30" width="40" /></a>
 <a href="https://instagram.com/ig._.sushmanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig._.sushmanth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ninja-543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ninja-543" height="30" width="40" /></a>
