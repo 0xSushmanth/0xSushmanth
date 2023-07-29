@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xsushmanth" alt="0xsushmanth" /></a> </p>
 
-- 🔭 I’m currently working on **Krishi Mitra**
+- 🔭 I’m currently working on **Stable Diffusion**
 
 - 🌱 I’m currently learning **Machine learning**
 
