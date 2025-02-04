@@ -1,5 +1,5 @@
-# 💫  I am an enthusiastic data scientist currently pursuing a B.Tech degree at IIIT UNA.
-🔭 I’m currently working on Stable Diffusion<br>🌱 I’m currently learning Deep learning <br>
+# 💫  Machine Learning Engineer @IIIT UNA CSE'25.
+🔭 I’m currently working on RAG<br>🌱 I’m currently learning LLMs <br>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xsushmanth) 
